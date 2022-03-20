@@ -13,8 +13,12 @@
 
 body {
     background: var(--black);
-    font-family: 'Helvetica', Times New Roman, Times, serif;
+    font-family: "Helvetica", Times New Roman, Times, serif;
     color: #FFF;
+}
+
+header nav {
+    margin-bottom: 10px;
 }
 
 header .container {
